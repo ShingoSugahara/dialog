@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListViewSample3</string>
+    <string name="bt_name">登録</string>
+    <string name="dialog_title">削除画面</string>
+    <string name="dialog_ok">はい</string>
+    <string name="dialog_no">いいえ</string>
+    <string name="dialog_msg">選択されたアイテムを削除します。よろしいですか？</string>
+    <string name ="dialog_ok_toast">アイテムを削除しました。</string>
+    <string name ="dialog_ng_toast">キャンセルしました。</string>
+
+</resources>
